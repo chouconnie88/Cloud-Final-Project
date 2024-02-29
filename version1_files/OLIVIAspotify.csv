@@ -1,0 +1,41 @@
+,name,album,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,205483,86,0.855,0.518,0.368,4.9e-06,0.119,-7.76,0.0353,141.934,4
+1,The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,143988,67,0.893,0.433,0.155,0.0,0.137,-12.474,0.0442,134.204,5
+2,Wool - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,229357,64,0.894,0.6,0.274,0.0194,0.11,-13.642,0.0316,111.672,4
+3,Nothing You Can Take From Me - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,95482,62,0.803,0.501,0.251,0.0,0.924,-15.715,0.707,133.081,5
+4,The Garden - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,222326,58,0.757,0.606,0.386,7.83e-06,0.109,-8.325,0.0276,129.826,3
+5,The Ballad of Lucy Gray Baird - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,139091,72,0.917,0.466,0.172,0.0,0.158,-9.058,0.0369,81.326,3
+6,Bury Me Beneath The Willow - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,222089,58,0.86,0.563,0.495,1.33e-05,0.334,-7.839,0.029,89.998,4
+7,The Old Therebefore / Singing at Snakes - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,168929,64,0.86,0.405,0.116,2.42e-06,0.111,-13.715,0.0325,70.086,3
+8,Burn Me Once - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,200021,56,0.839,0.736,0.202,0.0,0.107,-10.286,0.0334,114.351,4
+9,District 12 Stomp - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,43406,57,0.572,0.636,0.694,0.99,0.215,-8.083,0.059,105.359,4
+10,Nothing You Can Take From Me (Boot-Stompin' Version) - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,193591,74,0.671,0.504,0.676,0.000697,0.0876,-8.035,0.0769,104.128,4
+11,Cabin Song - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,206930,58,0.0572,0.578,0.619,0.000143,0.23,-7.712,0.0293,132.361,4
+12,Lucy Gray (part 1) - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,161063,59,0.874,0.563,0.129,0.0,0.108,-15.576,0.19,77.941,1
+13,Pure As The Driven Snow - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,233341,69,0.877,0.422,0.285,0.0,0.079,-10.837,0.0488,167.719,3
+14,Winter's Come and Gone - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,169243,60,0.545,0.514,0.259,3.05e-06,0.108,-7.452,0.0297,100.865,4
+15,Keep On The Sunny Side - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,163646,55,0.394,0.629,0.679,0.0,0.0747,-7.128,0.0308,114.626,4
+16,Lucy Gray (part 2) - from The Hunger Games: The Ballad of Songbirds & Snakes,The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By),2023-11-17,198850,56,0.915,0.443,0.162,0.0,0.205,-14.223,0.364,176.198,1
+17,all-american bitch,GUTS,2023-09-08,165833,85,0.254,0.43,0.692,4.17e-06,0.148,-4.234,0.0429,156.261,4
+18,bad idea right?,GUTS,2023-09-08,184783,88,0.00193,0.627,0.879,6.87e-06,0.0647,-3.446,0.0955,129.979,4
+19,vampire,GUTS,2023-09-08,219724,95,0.177,0.511,0.532,0.0,0.291,-5.745,0.0578,138.005,4
+20,lacy,GUTS,2023-09-08,177212,83,0.803,0.455,0.379,0.0,0.109,-7.628,0.0341,76.967,4
+21,ballad of a homeschooled girl,GUTS,2023-09-08,203369,80,0.0557,0.385,0.873,0.0,0.353,-3.331,0.069,120.393,4
+22,making the bed,GUTS,2023-09-08,198866,81,0.346,0.537,0.413,0.0,0.12,-7.736,0.0319,133.21,4
+23,logical,GUTS,2023-09-08,231907,81,0.853,0.499,0.246,0.0,0.1,-8.082,0.0345,81.051,4
+24,get him back!,GUTS,2023-09-08,211141,87,0.0135,0.546,0.846,0.0,0.607,-5.719,0.181,162.043,4
+25,love is embarrassing,GUTS,2023-09-08,154516,82,0.00261,0.52,0.831,0.0,0.156,-3.432,0.0968,160.035,4
+26,the grudge,GUTS,2023-09-08,189386,83,0.916,0.548,0.307,0.0,0.0828,-9.214,0.0781,127.923,4
+27,pretty isn’t pretty,GUTS,2023-09-08,199422,78,0.00394,0.554,0.854,1.78e-06,0.0798,-4.338,0.0561,123.926,4
+28,teenage dream,GUTS,2023-09-08,222358,77,0.816,0.422,0.229,0.0,0.109,-10.208,0.0362,135.82,4
+29,brutal,SOUR,2021-05-21,143746,82,0.0311,0.672,0.526,1.37e-06,0.28,-6.446,0.0599,123.999,4
+30,traitor,SOUR,2021-05-21,229226,89,0.691,0.38,0.339,0.0,0.12,-7.885,0.0338,100.607,4
+31,drivers license,SOUR,2021-05-21,242013,89,0.768,0.561,0.431,1.42e-05,0.106,-8.81,0.0578,143.875,4
+32,"1 step forward, 3 steps back",SOUR,2021-05-21,163586,82,0.941,0.473,0.203,0.0,0.126,-12.627,0.102,168.884,4
+33,deja vu,SOUR,2021-05-21,215506,89,0.584,0.442,0.612,5.7e-06,0.37,-7.222,0.112,180.917,4
+34,good 4 u,SOUR,2021-05-21,178146,87,0.335,0.563,0.664,0.0,0.0849,-5.044,0.154,166.928,4
+35,enough for you,SOUR,2021-05-21,202826,80,0.753,0.638,0.259,0.0,0.219,-10.706,0.0898,88.485,4
+36,happier,SOUR,2021-05-21,175933,87,0.765,0.395,0.443,9.67e-06,0.0839,-9.72,0.133,168.924,3
+37,"jealousy, jealousy",SOUR,2021-05-21,173160,86,0.198,0.695,0.575,0.0,0.0614,-6.334,0.116,163.929,4
+38,favorite crime,SOUR,2021-05-21,152666,87,0.866,0.369,0.272,0.0,0.147,-10.497,0.0364,172.929,4
+39,hope ur ok,SOUR,2021-05-21,209560,77,0.388,0.443,0.298,1e-05,0.103,-12.181,0.0644,77.253,4

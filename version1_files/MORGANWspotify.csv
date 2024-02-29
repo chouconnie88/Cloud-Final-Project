@@ -1,0 +1,114 @@
+,name,album,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Born With A Beer In My Hand,One Thing At A Time,2023-03-03,188523,69,0.0502,0.531,0.81,3.95e-05,0.357,-5.475,0.0401,148.026,4
+1,Last Night,One Thing At A Time,2023-03-03,163854,87,0.467,0.492,0.675,0.0,0.142,-5.456,0.0389,203.759,4
+2,Everything I Love,One Thing At A Time,2023-03-03,187047,76,0.00514,0.568,0.841,0.000503,0.147,-3.802,0.0261,103.983,4
+3,Man Made A Bar (feat. Eric Church),One Thing At A Time,2023-03-03,191231,83,0.123,0.498,0.764,3.07e-05,0.119,-5.006,0.0309,147.984,4
+4,Devil Don’t Know,One Thing At A Time,2023-03-03,205182,67,0.377,0.53,0.664,3.76e-05,0.0937,-5.648,0.0272,125.002,4
+5,One Thing At A Time,One Thing At A Time,2023-03-03,206864,78,0.00522,0.613,0.914,2.21e-06,0.26,-5.153,0.03,141.978,4
+6,’98 Braves,One Thing At A Time,2023-03-03,178704,76,0.0969,0.488,0.67,0.00022,0.257,-5.759,0.0268,142.139,4
+7,Ain’t That Some,One Thing At A Time,2023-03-03,158003,81,0.00232,0.641,0.803,3.86e-06,0.361,-5.781,0.0286,121.086,4
+8,I Wrote The Book,One Thing At A Time,2023-03-03,181766,73,0.0834,0.692,0.808,3.75e-05,0.0913,-3.757,0.0396,143.977,4
+9,Tennessee Numbers,One Thing At A Time,2023-03-03,225127,66,0.0487,0.425,0.738,0.00173,0.107,-5.368,0.0342,156.288,4
+10,Hope That’s True,One Thing At A Time,2023-03-03,186465,66,0.163,0.586,0.838,0.00016,0.0858,-4.892,0.0367,150.114,4
+11,Whiskey Friends,One Thing At A Time,2023-03-03,205579,70,0.0631,0.544,0.826,1.46e-05,0.113,-3.848,0.0288,142.029,4
+12,Sunrise,One Thing At A Time,2023-03-03,182522,74,0.259,0.613,0.765,4.28e-06,0.0832,-5.058,0.0318,139.993,4
+13,Keith Whitley,One Thing At A Time,2023-03-03,187518,66,0.0884,0.322,0.693,0.000316,0.0853,-4.366,0.0281,83.233,4
+14,In The Bible (feat. HARDY),One Thing At A Time,2023-03-03,195326,70,0.0119,0.488,0.806,6.02e-06,0.111,-4.451,0.0291,77.014,4
+15,You Proof,One Thing At A Time,2023-03-03,157477,85,0.265,0.732,0.839,0.0,0.602,-5.007,0.0345,119.724,4
+16,Thought You Should Know,One Thing At A Time,2023-03-03,215571,81,0.506,0.53,0.678,6.23e-06,0.138,-6.16,0.0278,140.05,4
+17,F150-50,One Thing At A Time,2023-03-03,191634,67,0.0653,0.541,0.754,0.0,0.109,-5.453,0.0276,90.904,4
+18,Neon Star (Country Boy Lullaby),One Thing At A Time,2023-03-03,171495,69,0.426,0.704,0.677,3.29e-06,0.118,-6.135,0.0288,92.021,4
+19,I Deserve A Drink,One Thing At A Time,2023-03-03,206137,71,0.0995,0.475,0.606,0.0171,0.0931,-4.906,0.03,123.009,3
+20,Wine Into Water,One Thing At A Time,2023-03-03,223968,67,0.0466,0.564,0.829,0.000184,0.118,-5.842,0.0281,122.038,4
+21,Me + All Your Reasons,One Thing At A Time,2023-03-03,174741,69,0.205,0.504,0.827,0.0,0.355,-5.48,0.0375,146.14,4
+22,Tennessee Fan,One Thing At A Time,2023-03-03,198255,67,0.0765,0.481,0.837,1.02e-06,0.0834,-4.763,0.0305,76.033,4
+23,Money On Me,One Thing At A Time,2023-03-03,175158,64,0.00813,0.485,0.78,0.00321,0.0845,-5.963,0.0292,75.063,4
+24,Thinkin’ Bout Me,One Thing At A Time,2023-03-03,177387,88,0.492,0.656,0.757,0.0,0.117,-5.775,0.0308,139.971,4
+25,Single Than She Was,One Thing At A Time,2023-03-03,160347,68,0.00761,0.664,0.649,1.01e-05,0.179,-5.946,0.0252,113.087,4
+26,Days That End In Why,One Thing At A Time,2023-03-03,162475,67,0.232,0.476,0.626,4.04e-05,0.165,-5.643,0.0263,80.03,3
+27,Last Drive Down Main,One Thing At A Time,2023-03-03,193163,67,0.116,0.45,0.846,3.21e-05,0.263,-4.091,0.0447,160.045,4
+28,Me To Me,One Thing At A Time,2023-03-03,138958,69,0.145,0.639,0.909,0.0,0.144,-4.176,0.048,114.04,4
+29,Don't Think Jesus,One Thing At A Time,2023-03-03,225665,65,0.525,0.566,0.416,4.07e-06,0.129,-6.811,0.0264,116.997,3
+30,180 (Lifestyle),One Thing At A Time,2023-03-03,189157,70,0.123,0.589,0.901,1.18e-05,0.167,-4.513,0.0433,83.878,4
+31,Had It,One Thing At A Time,2023-03-03,199108,64,0.416,0.397,0.756,0.000113,0.0859,-6.14,0.0307,79.961,3
+32,Cowgirls (feat. ERNEST),One Thing At A Time,2023-03-03,181621,84,0.199,0.624,0.766,8.62e-06,0.156,-3.805,0.0359,172.08,4
+33,Good Girl Gone Missin’,One Thing At A Time,2023-03-03,175031,69,0.316,0.558,0.492,3.13e-05,0.0729,-7.604,0.0273,86.031,4
+34,Outlook,One Thing At A Time,2023-03-03,193712,67,0.0342,0.526,0.764,6.77e-05,0.136,-6.038,0.0298,103.001,4
+35,Dying Man,One Thing At A Time,2023-03-03,183466,71,0.28,0.415,0.573,0.00449,0.0966,-6.567,0.0286,80.95,4
+36,Sand In My Boots,Dangerous: The Double Album (Bonus),2021-01-29,202133,55,0.59,0.403,0.537,0.0,0.112,-6.628,0.031,69.877,4
+37,Wasted On You,Dangerous: The Double Album (Bonus),2021-01-29,178520,55,0.373,0.505,0.657,0.00107,0.126,-5.24,0.0318,196.0,3
+38,Somebody’s Problem,Dangerous: The Double Album (Bonus),2021-01-29,161773,53,0.657,0.658,0.538,0.0,0.123,-7.676,0.0289,136.967,4
+39,More Surprised Than Me,Dangerous: The Double Album (Bonus),2021-01-29,157440,51,0.241,0.516,0.748,0.0,0.123,-6.049,0.0289,85.004,4
+40,865,Dangerous: The Double Album (Bonus),2021-01-29,190680,54,0.723,0.532,0.584,0.0,0.101,-5.254,0.0248,88.003,4
+41,Warning,Dangerous: The Double Album (Bonus),2021-01-29,156746,54,0.46,0.633,0.664,0.0,0.108,-5.037,0.0294,115.058,4
+42,Neon Eyes,Dangerous: The Double Album (Bonus),2021-01-29,226146,51,0.0214,0.576,0.843,8.04e-05,0.157,-5.26,0.029,126.009,4
+43,Outlaw (feat. Ben Burgess),Dangerous: The Double Album (Bonus),2021-01-29,229746,50,0.572,0.505,0.63,0.0,0.121,-5.758,0.0274,85.036,4
+44,Whiskey’d My Way,Dangerous: The Double Album (Bonus),2021-01-29,180786,51,0.603,0.443,0.518,0.00225,0.0984,-6.373,0.0266,185.764,3
+45,Wonderin’ Bout The Wind,Dangerous: The Double Album (Bonus),2021-01-29,182226,50,0.244,0.481,0.715,0.0,0.133,-5.626,0.0334,90.966,4
+46,Your Bartender,Dangerous: The Double Album (Bonus),2021-01-29,185093,52,0.247,0.555,0.771,7.26e-05,0.149,-5.237,0.0282,139.971,4
+47,Only Thing That’s Gone (feat. Chris Stapleton),Dangerous: The Double Album (Bonus),2021-01-29,196706,51,0.11,0.5,0.803,2.12e-05,0.296,-4.591,0.032,150.058,4
+48,Cover Me Up,Dangerous: The Double Album (Bonus),2021-01-29,293706,52,0.232,0.549,0.44,7.37e-06,0.107,-8.192,0.0264,128.01,3
+49,7 Summers,Dangerous: The Double Album (Bonus),2021-01-29,210506,52,0.417,0.466,0.786,6.1e-05,0.125,-5.13,0.0328,203.903,4
+50,More Than My Hometown,Dangerous: The Double Album (Bonus),2021-01-29,216573,52,0.615,0.62,0.869,0.0,0.131,-5.479,0.0462,126.019,4
+51,Still Goin Down,Dangerous: The Double Album (Bonus),2021-01-29,186293,50,0.49,0.58,0.752,0.0,0.277,-5.078,0.0267,148.108,4
+52,"Rednecks, Red Letters, Red Dirt",Dangerous: The Double Album (Bonus),2021-01-29,185133,49,0.16,0.554,0.752,1.4e-06,0.122,-4.286,0.0249,140.042,4
+53,Dangerous,Dangerous: The Double Album (Bonus),2021-01-29,147893,53,0.216,0.635,0.772,0.0,0.285,-4.825,0.0279,119.017,4
+54,Beer Don’t,Dangerous: The Double Album (Bonus),2021-01-29,196080,47,0.0651,0.59,0.855,0.0,0.11,-4.562,0.0358,140.008,4
+55,Blame It On Me,Dangerous: The Double Album (Bonus),2021-01-29,162666,50,0.541,0.63,0.836,0.0,0.312,-4.591,0.0438,92.98,4
+56,Somethin’ Country,Dangerous: The Double Album (Bonus),2021-01-29,172626,48,0.169,0.6,0.942,0.0,0.29,-4.441,0.0402,145.981,4
+57,This Bar,Dangerous: The Double Album (Bonus),2021-01-29,185280,50,0.0921,0.553,0.884,0.00033,0.0463,-5.306,0.0771,110.074,4
+58,Country A$$ Shit,Dangerous: The Double Album (Bonus),2021-01-29,186186,49,0.0192,0.619,0.927,0.0,0.138,-3.765,0.0346,137.975,4
+59,Whatcha Think Of Country Now,Dangerous: The Double Album (Bonus),2021-01-29,182426,46,0.0215,0.523,0.966,0.0,0.322,-4.356,0.0355,145.016,4
+60,Me On Whiskey,Dangerous: The Double Album (Bonus),2021-01-29,210373,50,0.431,0.57,0.657,0.0,0.0777,-4.571,0.0262,142.031,4
+61,Need A Boat,Dangerous: The Double Album (Bonus),2021-01-29,185866,49,0.0998,0.54,0.896,0.0,0.267,-6.286,0.0333,160.034,4
+62,Silverado For Sale,Dangerous: The Double Album (Bonus),2021-01-29,224920,53,0.165,0.591,0.778,0.0,0.115,-5.927,0.0292,137.956,4
+63,Heartless - Wallen Album Mix,Dangerous: The Double Album (Bonus),2021-01-29,169613,48,0.662,0.61,0.641,0.0,0.17,-4.423,0.0289,111.001,4
+64,Livin’ The Dream,Dangerous: The Double Album (Bonus),2021-01-29,239120,49,0.581,0.621,0.753,0.00605,0.215,-5.904,0.0271,127.035,4
+65,Quittin’ Time,Dangerous: The Double Album (Bonus),2021-01-29,224546,49,0.461,0.418,0.628,1.99e-06,0.186,-8.493,0.0354,83.926,4
+66,This Side Of A Dust Cloud,Dangerous: The Double Album (Bonus),2021-01-29,199946,66,0.139,0.645,0.734,0.000833,0.159,-5.892,0.0266,133.989,4
+67,Bandaid On A Bullet Hole,Dangerous: The Double Album (Bonus),2021-01-29,234333,71,0.794,0.543,0.48,0.0,0.119,-6.745,0.0301,154.78,3
+68,Sand In My Boots (The Dangerous Sessions) - Bonus,Dangerous: The Double Album (Bonus),2021-01-29,196800,56,0.93,0.411,0.273,0.0,0.118,-8.878,0.0312,140.137,4
+69,Sand In My Boots,Dangerous: The Double Album,2021-01-08,202133,80,0.59,0.403,0.537,0.0,0.112,-6.628,0.031,69.877,4
+70,Wasted On You,Dangerous: The Double Album,2021-01-08,178520,86,0.373,0.505,0.657,0.00107,0.126,-5.24,0.0318,196.0,3
+71,Somebody’s Problem,Dangerous: The Double Album,2021-01-08,161773,74,0.657,0.658,0.538,0.0,0.123,-7.676,0.0289,136.967,4
+72,More Surprised Than Me,Dangerous: The Double Album,2021-01-08,157440,67,0.241,0.516,0.748,0.0,0.123,-6.049,0.0289,85.004,4
+73,865,Dangerous: The Double Album,2021-01-08,190680,73,0.723,0.532,0.584,0.0,0.101,-5.254,0.0248,88.003,4
+74,Warning,Dangerous: The Double Album,2021-01-08,156746,73,0.46,0.633,0.664,0.0,0.108,-5.037,0.0294,115.058,4
+75,Neon Eyes,Dangerous: The Double Album,2021-01-08,226146,67,0.0214,0.576,0.843,8.04e-05,0.157,-5.26,0.029,126.009,4
+76,Outlaw (feat. Ben Burgess),Dangerous: The Double Album,2021-01-08,229746,61,0.572,0.505,0.63,0.0,0.121,-5.758,0.0274,85.036,4
+77,Whiskey’d My Way,Dangerous: The Double Album,2021-01-08,180786,65,0.603,0.443,0.518,0.00225,0.0984,-6.373,0.0266,185.764,3
+78,Wonderin’ Bout The Wind,Dangerous: The Double Album,2021-01-08,182226,67,0.244,0.481,0.715,0.0,0.133,-5.626,0.0334,90.966,4
+79,Your Bartender,Dangerous: The Double Album,2021-01-08,185093,68,0.247,0.555,0.771,7.26e-05,0.149,-5.237,0.0282,139.971,4
+80,Only Thing That’s Gone (feat. Chris Stapleton),Dangerous: The Double Album,2021-01-08,196706,76,0.11,0.5,0.803,2.12e-05,0.296,-4.591,0.032,150.058,4
+81,Cover Me Up,Dangerous: The Double Album,2021-01-08,293706,79,0.232,0.549,0.44,7.37e-06,0.107,-8.192,0.0264,128.01,3
+82,7 Summers,Dangerous: The Double Album,2021-01-08,210506,80,0.417,0.466,0.786,6.1e-05,0.125,-5.13,0.0328,203.903,4
+83,More Than My Hometown,Dangerous: The Double Album,2021-01-08,216573,81,0.615,0.62,0.869,0.0,0.131,-5.479,0.0462,126.019,4
+84,Still Goin Down,Dangerous: The Double Album,2021-01-08,186293,70,0.49,0.58,0.752,0.0,0.277,-5.078,0.0267,148.108,4
+85,"Rednecks, Red Letters, Red Dirt",Dangerous: The Double Album,2021-01-08,185133,62,0.16,0.554,0.752,1.4e-06,0.122,-4.286,0.0249,140.042,4
+86,Dangerous,Dangerous: The Double Album,2021-01-08,147893,73,0.216,0.635,0.772,0.0,0.285,-4.825,0.0279,119.017,4
+87,Beer Don’t,Dangerous: The Double Album,2021-01-08,196080,59,0.0651,0.59,0.855,0.0,0.11,-4.562,0.0358,140.008,4
+88,Blame It On Me,Dangerous: The Double Album,2021-01-08,162666,62,0.541,0.63,0.836,0.0,0.312,-4.591,0.0438,92.98,4
+89,Somethin’ Country,Dangerous: The Double Album,2021-01-08,172626,61,0.169,0.6,0.942,0.0,0.29,-4.441,0.0402,145.981,4
+90,This Bar,Dangerous: The Double Album,2021-01-08,185280,75,0.0921,0.553,0.884,0.00033,0.0463,-5.306,0.0771,110.074,4
+91,Country A$$ Shit,Dangerous: The Double Album,2021-01-08,186186,64,0.0192,0.619,0.927,0.0,0.138,-3.765,0.0346,137.975,4
+92,Whatcha Think Of Country Now,Dangerous: The Double Album,2021-01-08,182426,57,0.0215,0.523,0.966,0.0,0.322,-4.356,0.0355,145.016,4
+93,Me On Whiskey,Dangerous: The Double Album,2021-01-08,210373,67,0.431,0.57,0.657,0.0,0.0777,-4.571,0.0262,142.031,4
+94,Need A Boat,Dangerous: The Double Album,2021-01-08,185866,58,0.0998,0.54,0.896,0.0,0.267,-6.286,0.0333,160.034,4
+95,Silverado For Sale,Dangerous: The Double Album,2021-01-08,224920,69,0.165,0.591,0.778,0.0,0.115,-5.927,0.0292,137.956,4
+96,Heartless - Wallen Album Mix,Dangerous: The Double Album,2021-01-08,169613,66,0.662,0.61,0.641,0.0,0.17,-4.423,0.0289,111.001,4
+97,Livin’ The Dream,Dangerous: The Double Album,2021-01-08,239120,67,0.581,0.621,0.753,0.00605,0.215,-5.904,0.0271,127.035,4
+98,Quittin’ Time,Dangerous: The Double Album,2021-01-08,224546,64,0.461,0.418,0.628,1.99e-06,0.186,-8.493,0.0354,83.926,4
+99,Up Down (feat. Florida Georgia Line),If I Know Me,2018-04-27,197253,75,0.0813,0.589,0.882,0.0,0.146,-3.039,0.035,129.915,4
+100,Happy Hour,If I Know Me,2018-04-27,199840,60,0.162,0.616,0.835,0.0,0.0977,-4.277,0.0354,97.96,4
+101,Had Me By Halftime,If I Know Me,2018-04-27,172080,62,0.109,0.49,0.889,0.0,0.168,-2.94,0.0363,144.089,4
+102,Whiskey Glasses,If I Know Me,2018-04-27,234346,83,0.369,0.614,0.68,1.84e-06,0.115,-4.58,0.0289,149.959,4
+103,Whatcha Know 'Bout That,If I Know Me,2018-04-27,194720,57,0.318,0.587,0.888,0.000134,0.0449,-5.062,0.0347,74.022,4
+104,Redneck Love Song,If I Know Me,2018-04-27,189973,60,0.399,0.75,0.835,0.0,0.0421,-4.848,0.0312,140.034,4
+105,Little Rain,If I Know Me,2018-04-27,207173,63,0.184,0.491,0.835,0.0,0.119,-4.272,0.0464,185.956,4
+106,If I Know Me,If I Know Me,2018-04-27,157693,72,0.765,0.777,0.604,6.79e-05,0.11,-5.813,0.12,99.934,4
+107,Chasin' You,If I Know Me,2018-04-27,205453,83,0.657,0.631,0.591,0.0,0.11,-5.785,0.0277,97.074,4
+108,The Way I Talk,If I Know Me,2018-04-27,208280,77,0.0468,0.604,0.879,0.0,0.0909,-3.388,0.0322,137.983,4
+109,If I Ever Get You Back,If I Know Me,2018-04-27,173960,57,0.0138,0.673,0.876,0.0,0.211,-3.338,0.0345,139.951,4
+110,Gone Girl,If I Know Me,2018-04-27,163453,58,0.287,0.527,0.868,0.0,0.0885,-2.653,0.0416,172.086,4
+111,Not Good At Not,If I Know Me,2018-04-27,185066,64,0.242,0.557,0.814,0.0,0.114,-3.241,0.0325,143.935,4
+112,Talkin' Tennessee,If I Know Me,2018-04-27,221880,73,0.568,0.702,0.711,0.0,0.104,-6.697,0.0248,99.988,4
